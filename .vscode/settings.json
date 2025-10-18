@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1%40deployment": "file:///d%3A/AEM/Minikube/practice/deployment.yaml"
+    }
+}
